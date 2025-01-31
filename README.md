@@ -2,7 +2,8 @@
 
 Welcome to my "About Me" project! This is a simple and visually engaging webpage that highlights some of my favorite things. It was created using HTML and CSS.
 
-# Project features: 
+## Project features: 
+- Personalized illustration
 - Semantic HTML5
 - BEM structure
 
